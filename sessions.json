@@ -1,0 +1,22 @@
+{
+  "course": "انسان‌شناسی اسلامی",
+  "teacher": "عباس زارعی",
+  "student": "عبدالستار رحیمی",
+  "description": "تمامی فایل‌های مرتبط با این درس، در این صفحه قرار خواهد گرفت.",
+  "sessions": [
+    { "n": 1, "active": true, "items": [
+      { "title": "انسان‌شناسی در نهج‌البلاغه", "file": "texts/session-01-a.txt" }
+    ]},
+    { "n": 2, "active": false, "items": [] },
+    { "n": 3, "active": false, "items": [] },
+    { "n": 4, "active": false, "items": [] },
+    { "n": 5, "active": false, "items": [] },
+    { "n": 6, "active": false, "items": [] },
+    { "n": 7, "active": false, "items": [] },
+    { "n": 8, "active": false, "items": [] },
+    { "n": 9, "active": false, "items": [] },
+    { "n": 10, "active": false, "items": [] },
+    { "n": 11, "active": false, "items": [] },
+    { "n": 12, "active": false, "items": [] }
+  ]
+}
